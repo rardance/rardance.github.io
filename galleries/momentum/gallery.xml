@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="000000"
+	frameColor="666666"
+	frameWidth="0"
+	thumbPosition="BOTTOM"
+	thumbColumns="7"
+	thumbRows="1"
+
+>
+  <image imageURL="images/tfad042206_20.jpg"
+	thumbURL="thumbs/tfad042206_20.jpg"
+	linkURL="images/tfad042206_20.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Momentum, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/tfad042206_23.jpg"
+	thumbURL="thumbs/tfad042206_23.jpg"
+	linkURL="images/tfad042206_23.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Momentum, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/tfad042206_27.jpg"
+	thumbURL="thumbs/tfad042206_27.jpg"
+	linkURL="images/tfad042206_27.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Momentum, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/tfad042206_52.jpg"
+	thumbURL="thumbs/tfad042206_52.jpg"
+	linkURL="images/tfad042206_52.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Momentum, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/tfad042206_54.jpg"
+	thumbURL="thumbs/tfad042206_54.jpg"
+	linkURL="images/tfad042206_54.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Momentum, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/tfad042206_69.jpg"
+	thumbURL="thumbs/tfad042206_69.jpg"
+	linkURL="images/tfad042206_69.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[Momentum, Humboldt State University]]></caption>
+  </image>
+</simpleviewergallery>

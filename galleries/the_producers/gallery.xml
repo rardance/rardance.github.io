@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	textColor="FFFFFF"
+	frameColor="999999"
+	thumbPosition="BOTTOM"
+	thumbColumns="7"
+	thumbRows="1"
+	backgroundColor="000000"
+	galleryStyle="MODERN"
+	frameWidth="0"
+	title=""
+	backgroundTransparent="false"
+
+>
+  <image imageURL="images/_CHI9887.jpg"
+	thumbURL="thumbs/_CHI9887.jpg"
+	linkURL="images/_CHI9887.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Producers, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/_CHI0412.jpg"
+	thumbURL="thumbs/_CHI0412.jpg"
+	linkURL="images/_CHI0412.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Producers, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/_CHI0458.jpg"
+	thumbURL="thumbs/_CHI0458.jpg"
+	linkURL="images/_CHI0458.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Producers, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/_CHI2168 8 x 10.jpg"
+	thumbURL="thumbs/_CHI2168 8 x 10.jpg"
+	linkURL="images/_CHI2168 8 x 10.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Producers, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/_CHI2176 8 x 10.jpg"
+	thumbURL="thumbs/_CHI2176 8 x 10.jpg"
+	linkURL="images/_CHI2176 8 x 10.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Producers, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/_CHI2206 8 x 10.jpg"
+	thumbURL="thumbs/_CHI2206 8 x 10.jpg"
+	linkURL="images/_CHI2206 8 x 10.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Producers, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/_CHI2250 5x7.jpg"
+	thumbURL="thumbs/_CHI2250 5x7.jpg"
+	linkURL="images/_CHI2250 5x7.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Producers, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/_CHI3368.jpg"
+	thumbURL="thumbs/_CHI3368.jpg"
+	linkURL="images/_CHI3368.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[The Producers, South Bay Musical Theatre]]></caption>
+  </image>
+</simpleviewergallery>

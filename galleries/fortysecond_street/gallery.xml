@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	textColor="FFFFFF"
+	frameColor="999999"
+	frameWidth="0"
+	backgroundColor="000000"
+	galleryStyle="MODERN"
+	thumbColumns="7"
+	thumbRows="1"
+	thumbPosition="BOTTOM"
+
+>
+  <image imageURL="images/PS_dress1_ 266.jpg"
+	thumbURL="thumbs/PS_dress1_ 266.jpg"
+	linkURL="images/PS_dress1_ 266.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_dress1_ 674.jpg"
+	thumbURL="thumbs/PS_dress1_ 674.jpg"
+	linkURL="images/PS_dress1_ 674.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_wide1_ 165.jpg"
+	thumbURL="thumbs/PS_wide1_ 165.jpg"
+	linkURL="images/PS_wide1_ 165.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_wide1_ 172.jpg"
+	thumbURL="thumbs/PS_wide1_ 172.jpg"
+	linkURL="images/PS_wide1_ 172.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_wide1_ 191.jpg"
+	thumbURL="thumbs/PS_wide1_ 191.jpg"
+	linkURL="images/PS_wide1_ 191.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_021.jpg"
+	thumbURL="thumbs/PS_021.jpg"
+	linkURL="images/PS_021.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_022.jpg"
+	thumbURL="thumbs/PS_022.jpg"
+	linkURL="images/PS_022.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_031.jpg"
+	thumbURL="thumbs/PS_031.jpg"
+	linkURL="images/PS_031.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_083.jpg"
+	thumbURL="thumbs/PS_083.jpg"
+	linkURL="images/PS_083.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_367.jpg"
+	thumbURL="thumbs/PS_367.jpg"
+	linkURL="images/PS_367.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_428.jpg"
+	thumbURL="thumbs/PS_428.jpg"
+	linkURL="images/PS_428.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_wide2_ 048.jpg"
+	thumbURL="thumbs/PS_wide2_ 048.jpg"
+	linkURL="images/PS_wide2_ 048.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_wide2_ 079.jpg"
+	thumbURL="thumbs/PS_wide2_ 079.jpg"
+	linkURL="images/PS_wide2_ 079.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_wide2_ 190.jpg"
+	thumbURL="thumbs/PS_wide2_ 190.jpg"
+	linkURL="images/PS_wide2_ 190.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+  <image imageURL="images/PS_castcrew 036b.jpg"
+	thumbURL="thumbs/PS_castcrew 036b.jpg"
+	linkURL="images/PS_castcrew 036b.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[42nd Street, South Bay Musical Theatre]]></caption>
+  </image>
+</simpleviewergallery>

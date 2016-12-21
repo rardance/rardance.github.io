@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	backgroundColor="000000"
+	frameColor="666666"
+	frameWidth="0"
+	thumbPosition="BOTTOM"
+	thumbColumns="7"
+	thumbRows="1"
+
+>
+  <image imageURL="images/DSC_77.JPG"
+	thumbURL="thumbs/DSC_77.JPG"
+	linkURL="images/DSC_77.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_91.JPG"
+	thumbURL="thumbs/DSC_91.JPG"
+	linkURL="images/DSC_91.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0050.JPG"
+	thumbURL="thumbs/DSC_0050.JPG"
+	linkURL="images/DSC_0050.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0103.JPG"
+	thumbURL="thumbs/DSC_0103.JPG"
+	linkURL="images/DSC_0103.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0104.JPG"
+	thumbURL="thumbs/DSC_0104.JPG"
+	linkURL="images/DSC_0104.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_145.JPG"
+	thumbURL="thumbs/DSC_145.JPG"
+	linkURL="images/DSC_145.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_146.JPG"
+	thumbURL="thumbs/DSC_146.JPG"
+	linkURL="images/DSC_146.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0192.JPG"
+	thumbURL="thumbs/DSC_0192.JPG"
+	linkURL="images/DSC_0192.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0200.JPG"
+	thumbURL="thumbs/DSC_0200.JPG"
+	linkURL="images/DSC_0200.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0208.JPG"
+	thumbURL="thumbs/DSC_0208.JPG"
+	linkURL="images/DSC_0208.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0212.JPG"
+	thumbURL="thumbs/DSC_0212.JPG"
+	linkURL="images/DSC_0212.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0213.JPG"
+	thumbURL="thumbs/DSC_0213.JPG"
+	linkURL="images/DSC_0213.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0033 2.JPG"
+	thumbURL="thumbs/DSC_0033 2.JPG"
+	linkURL="images/DSC_0033 2.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0034 2.JPG"
+	thumbURL="thumbs/DSC_0034 2.JPG"
+	linkURL="images/DSC_0034 2.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0117.JPG"
+	thumbURL="thumbs/DSC_0117.JPG"
+	linkURL="images/DSC_0117.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0118.JPG"
+	thumbURL="thumbs/DSC_0118.JPG"
+	linkURL="images/DSC_0118.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0127.JPG"
+	thumbURL="thumbs/DSC_0127.JPG"
+	linkURL="images/DSC_0127.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0131.JPG"
+	thumbURL="thumbs/DSC_0131.JPG"
+	linkURL="images/DSC_0131.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0134.JPG"
+	thumbURL="thumbs/DSC_0134.JPG"
+	linkURL="images/DSC_0134.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0136.JPG"
+	thumbURL="thumbs/DSC_0136.JPG"
+	linkURL="images/DSC_0136.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0164.JPG"
+	thumbURL="thumbs/DSC_0164.JPG"
+	linkURL="images/DSC_0164.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Body of Art, Humboldt State University]]></caption>
+  </image>
+  <image imageURL="images/DSC_0168.JPG"
+	thumbURL="thumbs/DSC_0168.JPG"
+	linkURL="images/DSC_0168.JPG"
+	linkTarget="_blank">
+    <caption><![CDATA[Caption]]></caption>
+  </image>
+</simpleviewergallery>
